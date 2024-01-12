@@ -17,7 +17,7 @@ A React Native project that serves as a simplified clone of the popular rideshar
 
 Welcome to the Uber Clone project! This mobile app project mimics the basic functionalities of Uber, providing a hands-on experience for React Native developers to explore the world of mobile app development.
 
-![Uber Clone](https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Uber_logo_2018.svg/2560px-Uber_logo_2018.svg.png)
+![Uber Clone](https://www.loom.com/share/a699e705fcd64ccfbe78c5cbc17dd1a8?sid=86684d22-661c-422d-983b-4d9a80a9dd2a)
 
 ## Features
 
